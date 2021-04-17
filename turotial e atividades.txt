@@ -1,0 +1,18 @@
+Tutorial e Atividades
+Recursos
+O estudante deve ler a apresentação e os links propostos. A página Modelo de Acessibilidade em Governo Eletrônico apresenta um documento sobre acessibilidade no governo federal. A página How to Meet WCAG possui uma referência rápida com os requisitos a serem satisfeitos para verificar a acessibilidade de uma página. A página Tutorials Overview mostra como desenvolver conteúdo web que é acessível para pessoas com necessidades especiais, com conteúdo dividido em Tabelas, Formulários, Imagens, etc.
+
+Atividades
+O objetivo desta atividade é verificar se o estudante consegue corrigir erros de acessibilidade em páginas HTML. Para isso, o estudante deve descompactar o arquivo Acessibilidade.zip e utilizar a ferramenta IDI Web Acessibility Checker para validar e corrigir seus arquivos internos.
+O objetivo desta atividade é verificar se o estudante consegue corrigir erros de acessibilidade em um site web. Para isso, o estudante deve realizar o exercício proposto na página MDN Acessibility (Avaliação: solucionando problemas de acessibilidade | Accessibility troubleshooting).
+Responder ao Questionário.
+Recursos e atividades opcionais
+Esta seção apresenta outras ferramentas que podem ser utilizadas para incrementar a acessibilidade de uma página HTML.
+
+MDN Acessibility: página do projeto Mozilla que apresenta conceitos básicos sobre como utilizar HTML, CSS e JavaScript para garantir acessibilidade. 
+CynthiaSays: Ferramenta de verificação de acessibilidade.
+TAW Serviços de Acessibilidade e Mobilidade Web: Ferramenta de verificação de acessibilidade.
+Vischeck: Simula como uma página será visualizada por pessoas com daltonismo.
+Luminosity Colour Contrast Ratio Analyser: Analisa o contraste da cor do texto com a cor de fundo.
+Readability Test: Informa a legibilidade de um texto.
+Photosensitive Epilepsy Analysis Tool: Identifica o risco de ataques convulsivos no conteúdo web.
