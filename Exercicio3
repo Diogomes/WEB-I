@@ -1,0 +1,19 @@
+xercícios de Fixação
+O objetivo desta atividade é verificar se o estudante consegue identificar a especificidade de seletores CSS. Para isso, informe os componentes b, c e d da especificidade dos seguintes seletores:
+
+body #main .post ul li:last-child
+h1#top:first-child + p[rel=up]:first-line
+#emperor[style] div:first-line
+body #darkside .sith p
+#emperor:visited div:first-letter
+h1 + #trooper[class]
+div > p.sith
+#emperor div:first-letter:first-line
+ul ol+li
+ul #nav li.active a
+body .ie7 .col_3 h2 + h2
+ul > li ul li ol li:first-letter
+#abc[class]:focus
+html .wsc #vader:first-line
+#x34y ul ol li.red[rel=up]:first-line
+tr > td + td:last-child

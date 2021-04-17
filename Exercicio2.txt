@@ -1,0 +1,15 @@
+Exercícios de Fixação
+O objetivo desta atividade é verificar se o estudante consegue criar seletores CSS para alterar o estilo de partes de uma página HTML. Dada a página HTML compactada dentro do arquivo CSS-Exemplo1.zip, criar um seletor para alterar as propriedades dos seguintes elementos (sem utilizar os seletores de classe e id):
+
+Modificar a cor de todos os parágrafos para azul.
+Modificar a cor de todos os elementos <em> que são filhos diretos de um parágrafo para verde.
+Modificar a cor dos elementos que possuam atributo lang setado para inglês americano para amarelo.
+Modificar a cor dos elementos <strong> que sejam descendentes de parágrafos para vermelho.
+Modificar a cor dos links não visitados para laranja.
+Modificar a cor dos links visitados para cinza.
+Modificar a cor dos parágrafos que vem logo após uma lista ordenada para marrom.
+Alterar o estilo padrão dos elementos <abbr> que estão dentro de itens de lista ordenadas de pontilhado para tracejado.
+Modificar o tamanho da fonte do elemento <h1> para 110% do tamanho da fonte padrão do navegador.
+Modificar o estilo do <abbr> que é filho direto do primeiro item de uma lista ordenada e colocá-lo em negrito.
+Modificar o estilo dos links que estão na lista ordenada (menos o primeiro item da lista) para quando o mouse passar por cima deles passar de sublinhado para uma linha sobre os links.
+O objetivo desta atividade é verificar se o estudante consegue criar páginas HTML e regras CSS para simular a aparência de imagens. Para isso, o estudante deve criar um arquivo HTML e um CSS para que os resultados fiquem com a mesma aparência das figuras presentes nos arquivos CSS-Exemplo2.zip, CSS-Exemplo4.zip, CSS-Exemplo5.zip e CSS-Exemplo6.zip (Não utilizar os atributos id e class no HTML).
