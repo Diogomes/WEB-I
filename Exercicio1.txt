@@ -1,0 +1,26 @@
+Exercícios de Fixação
+O objetivo destas questões é verificar se o estudante consegue obter dados na página e alterá-la, bem como seu estilo. Para isso:
+
+Criar uma página que calcule o IMC (Índice de Massa Corporal) de uma pessoa. O usuário informará peso e altura (números reais positivos). O cálculo do IMC é dado pela fórmula IMC=altura/peso2 e a tabela com os intervalos é dada a seguir. Imprimir cada faixa de IMC com uma cor diferente.
+
+IMC	Resultado
+Menor que 18,5	Abaixo do peso
+Entre 18,5 e 25	Peso normal
+Entre 25 e 30	Sobrepeso
+Maior que 30	Obeso
+Faça os campos de altura e peso serem do tipo range, e, à medida que o usuário modificar o valor da altura ou peso, informar o valor de cada campo ao lado da entrada de dados e calcular automaticamente o IMC.
+
+Implementar uma página que calcule os juros simples e compostos de uma aplicação financeira. O usuário informará o capital inicial (c), o aporte mensal (m), a taxa de juros (i) e o tempo de aplicação (t) e a página informará qual o valor aplicado ao final do período de aplicação.
+
+Implementar uma página que informe o contracheque de um funcionário. O funcionário informará o salário bruto e valor das passagens de ida ao trabalho e o sistema calculará:
+
+O valor a ser pago para a previdência.
+O valor do imposto de renda.
+O valor do vale transporte.
+O salário líquido.
+O valor do FGTS.
+Dada a página abaixo, implementar os seguintes eventos:
+
+Toda vez que o mouse passar por cima do elemento h1, alterar a cor do segundo parágrafo para vermelho. Quando o mouse sair do elemento h1, alterar a cor de fundo para seu valor padrão.
+Ao clicar em cima do elemento h2, alterar a cor de fundo do parágrafo posterior a ele para azul. Clicando-se novamente no mesmo elemento, alterar a cor de fundo para seu valor inicial.
+Quando o usuário pressionar um botão do mouse em cima do elemento h1, alterar o último parágrafo para negrito. Ao soltar o botão do mouse em cima do mesmo elemento, voltar ao seu valor normal.
