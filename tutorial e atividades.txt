@@ -1,0 +1,4 @@
+v2
+Nesta versão do jogo de Damas, é possível movimentar as peças, sem se preocupar com jogadas válidas. Para a próxima versão, implementar e informar de quem é a vez de jogar e implementar uma movimentação normal de uma peça e uma captura de peça adversária.
+
+Clique no link v2.zip para baixar o arquivo.

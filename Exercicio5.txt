@@ -1,0 +1,9 @@
+Exercícios de Fixação
+O objetivo destes exercícios é verificar se o estudante consegue criar funções em JavaScript para resolver problemas. Para isso, crie funções em JavaScript para responder às seguinte questões:
+
+Criar uma função recursiva que, dado um número inteiro positivo, retorne a codificação binária desse número. Exemplo: 861 → 101011101.
+Criar uma função para encontrar todos os pares de números amigáveis entre 1 e 10000. Um par de números é amigável quando cada um deles é igual à soma dos divisores do outro. Por exemplo, 220 e 284. Dica: Crie uma função que receba um inteiro e retorne a soma de seus divisores.
+Criar uma função que calcule a média dos números passados por parâmetros. Exemplos:
+average(1,2,3,4,5) = 3
+average(12,23,34,45,54) = 34
+Implementar usando o objeto arguments.

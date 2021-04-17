@@ -1,0 +1,10 @@
+Exercícios de Fixação
+O objetivo desta atividade é verificar se o estudante consegue implementar programas simples em JavaScript. Para isso, crie programas em JavaScript para responder às seguinte questões:
+
+Criar uma variável que armazene um número inteiro positivo, e indicar se a mesma é um número perfeito. Número perfeito é aquele cuja soma de seus divisores, exceto ele próprio, é igual ao próprio número. Por exemplo, seis é um número perfeito pois 6 = 1 + 2 + 3. Outros exemplos são 28 = 1 + 2 + 4 + 7 + 14 e 496 = 1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 + 248.
+Escrever um programa que calcule a resistência equivalente (RE) de um circuito elétrico composto de três resistores R1, R2, e R3 em paralelo. Os valores dos resistores deverão ser lidos pelo programa.
+1RE=1R1+1R2+1R3
+Criar três variáveis (correspondentes aos lados de um triângulo), e verificar se os valores formam um triângulo equilátero, escaleno, isósceles ou se não existe triângulo para os valores dados. Observação: Para saber se existe um triângulo válido, é necessário que nenhum lado seja maior ou igual que a soma dos dois outros lados. Por exemplo, um triângulo com lados 1, 2 e 3 não existe pois 3 é maior ou igual a 1 + 2.
+Fazer um programa que leia um valor (representado abaixo pelo valor X) e depois calcule e escreva o resultado do seguinte somatório:
+S=X251−X242+X233−X224⋯+X125
+Última atualização: quinta, 3 set 2020, 15:41
