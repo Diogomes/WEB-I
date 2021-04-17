@@ -1,0 +1,5 @@
+Exercícios de Fixação
+O objetivo desta questão é verificar se o estudante consegue manipular uma página HTML para criação dinâmica de elementos. Para isso:
+
+Implementar uma página que apresente o calendário de mês atual. A primeira linha apresentará os dias da semana e os dias do domingo e feriados devem estar em vermelho. Considerar feriados fixos (21/04, 01/05, 07/09, etc.) e móveis (carnaval, páscoa, corpus christi).
+Implementar uma página que apresente o calendário do ano atual.
